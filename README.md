@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OKM87
-- 👀 I’m interested in learning code and mostly BI tools
-- 🌱 I’m currently learning "everything" 
+- 👀 Passionate about AI and Business Intelligence
+- 🌱 Currently focused on becoming decent at Python 
 
 <!---
 OKM87/OKM87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
